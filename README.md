@@ -1,7 +1,7 @@
 # Exploding Kittens
 
 ## Objective
-Draw all 5 cards from a deck consisting of Cat, Defuse, Shuffle, and Exploding Kitten cards before the deck runs out.
+The objective of this game is to draw all 5 cards from a deck of 4 different types of cards before there are no cards left to draw.
 
 ## How to Play
 1. Click "Start Game" to begin.
