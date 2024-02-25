@@ -40,6 +40,8 @@ Draw all 5 cards from a deck consisting of Cat, Defuse, Shuffle, and Exploding K
 3. Run `npm run dev` to start the client on port 5173.
 
 If everything is set up correctly, you should see the game running in your browser.
+
+
 ![1](https://github.com/atharva3333/exploding-kittens/assets/73531009/98f7aa63-cdc9-4d79-ac1f-02a1ac3c94a2)
 
 ![2](https://github.com/atharva3333/exploding-kittens/assets/73531009/81aac79f-6c47-4023-8a2c-3f0f6c515435)
