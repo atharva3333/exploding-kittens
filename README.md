@@ -26,7 +26,7 @@ The objective of this game is to draw all 5 cards from a deck of 4 different typ
 ### Setting Up the Server
 
 #### Setting Up Redis via Docker Image
-1. Change directory to the server directory.
+1. Change directory to the server directory `cd server`.
 2. Run `docker pull redis` to pull the Redis Docker image.
 3. Run `docker run --name redis-test-instance -p 6379:6379 -d redis` to start a Redis container.
 
@@ -35,7 +35,7 @@ The objective of this game is to draw all 5 cards from a deck of 4 different typ
 2. Run `go run main.go` to start the Golang server with Gin.
 
 ### Setting Up the Client
-1. Change directory to the client directory.
+1. Change directory to the client directory `cd client`.
 2. Run `npm install` to install the dependencies.
 3. Run `npm run dev` to start the client on port 5173.
 
